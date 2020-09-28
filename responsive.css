@@ -1,0 +1,41 @@
+@media (max-width:768px){
+  
+    body{
+      font-size: 12pt;
+    }
+  
+    img{
+      width: 200px;
+      height: 100px;
+    
+    }
+  
+    h2{
+      font-size: 14pt;
+    }
+
+    p{
+        font-size: 10pt;
+    }
+    
+    .sub span{
+      margin-left: 5px;
+      
+       
+    }
+}  
+
+@media(max-width:425px){
+
+    img{
+        width: 200px;
+        height: 100px;
+        margin-bottom: 20px;
+
+      }
+
+      h2{
+          font-size: 12pt;
+          text-align: center;
+      }
+}
