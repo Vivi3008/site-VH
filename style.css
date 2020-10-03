@@ -110,19 +110,17 @@
 
 .headline #first{
   animation-name: subtitles;
-  animation-duration: 3s;
+  animation-duration: 2s;
   
 }
 .headline #second{
   animation-name: subtitles;
-  
-  animation-duration: 3s;
+  animation-duration: 2s;
   
 }
 .headline #third{
   animation-name: subtitles;
-  
-  animation-duration: 3s;
+  animation-duration: 2s;
 }
 
 @keyframes title{
